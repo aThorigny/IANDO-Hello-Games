@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello Games</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="gameInfo_txt">Game info</string>
+    <string name="name_txt">Name: </string>
+    <string name="type_txt">Type: </string>
+    <string name="playerNb_txt">Nb players: </string>
+    <string name="year_txt">Year: </string>
+    <string name="more_txt">Do you want to know more ?</string>
+    <string name="loading_txt">Loading...</string>
+</resources>
