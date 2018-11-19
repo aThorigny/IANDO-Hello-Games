@@ -1,5 +1,7 @@
 package fr.epita.hellogames
 
+/* Game details class */
+
 class GameDetails {
     var id: Int? = null
     var name: String? = null

@@ -1,5 +1,7 @@
 package fr.epita.hellogames
 
+/* Game list enum */
+
 enum class EGameList(val gameId: Int) {
     TICTACTOE(R.drawable.tictactoe),
     HANGMAN(R.drawable.hangman),

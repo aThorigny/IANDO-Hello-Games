@@ -16,6 +16,8 @@ import retrofit2.Response
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
+/* Second activity class */
+
 class SecondActivity : AppCompatActivity(), View.OnClickListener {
 
     var gameDetails:GameDetails? = null

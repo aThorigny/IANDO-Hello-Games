@@ -4,9 +4,8 @@ import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query
 
-/**
- * Created by micka on 07/03/2018.
- */
+/* Web service interface */
+
 interface WebServiceInterface {
     @GET("game/list")
     fun listofGame(): Call<List<Game>>

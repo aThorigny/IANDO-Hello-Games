@@ -15,6 +15,8 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import java.util.*
 
+/* Main Activity class */
+
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     var gameList = arrayListOf<Game>()
